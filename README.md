@@ -1,5 +1,5 @@
 # Python-Code
-Udemy excercises
+Udemy coding excercises/challenge
 1. Collatz Conjecture - Start with a number n > 1. Find the number of steps it takes to reach one using the following process: If n is even, divide it by 2. If n is odd, multiply it by 3 and add 1.
 
 1. Coin Flip Simulation - Write some code that simulates flipping a single coin however many times the user decides. The code should record the outcomes and count the number of tails and heads.
